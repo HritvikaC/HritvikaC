@@ -2,7 +2,7 @@
 <hr />
 RTBVPEHPWQWHXRGR! (HRITVKA)  
 <hr />
-𝕀'𝕞 𝕗𝕒𝕞𝕚𝕝𝕚𝕒𝕣 𝕨𝕚𝕥𝕙  
+𝕀'𝕞 𝕗𝕒𝕞𝕚𝕝𝕚𝕒𝕣 𝕨𝕚𝕥𝕙<br><br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -16,6 +16,11 @@ RTBVPEHPWQWHXRGR! (HRITVKA)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 <hr />
+<br>
+<h3>Currently working on</h3><br>
+<a href="https://syngen-data.vercel.app"><img width="1500" height="200" alt="SYNGEN data" src="https://github.com/user-attachments/assets/9dc32336-0b8c-493f-bdee-da8d11a329a9" /></a>
+<img width="1500" height="200" alt="Blacktalon" src="https://github.com/user-attachments/assets/552e7084-e27b-4d32-933c-c8d175d0ed07" />
+
 
 
 

@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="linkd_banner" src="https://github.com/user-attachments/assets/2f603810-2b2a-4b81-9d7d-bc72172fe478" />  
+<img width="1584" height="149" alt="linkd_banner" src="https://github.com/user-attachments/assets/068f501b-344d-4bb2-bb41-2de561ed3daa" />
+
 <hr />
 RTBVPEHPWQWHXRGR! (HRITVKA)  
 <hr />
@@ -16,7 +17,6 @@ RTBVPEHPWQWHXRGR! (HRITVKA)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 <hr />
-<br>
 <h3>Currently working on</h3><br>
 <a href="https://syngen-data.vercel.app"><img width="1500" height="200" alt="SYNGEN data" src="https://github.com/user-attachments/assets/9dc32336-0b8c-493f-bdee-da8d11a329a9" /></a>
 <img width="1500" height="200" alt="Blacktalon" src="https://github.com/user-attachments/assets/552e7084-e27b-4d32-933c-c8d175d0ed07" />

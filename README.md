@@ -16,6 +16,11 @@ RTBVPEHPWQWHXRGR! (HRITVKA)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+<br><br>
+![Wireshark](https://img.shields.io/badge/Wireshark--%231679A7?style=flat-square&logo=wireshark&logoColor=%231679A7&logoSize=auto&labelColor=%23ffffff&color=%231679A7)
+![Kali](https://img.shields.io/badge/Kali%20Linux--%231679A7?style=flat-square&logo=kalilinux&logoColor=%23ffffff&logoSize=auto&labelColor=%233b3b3b)
+![Metasploit](https://img.shields.io/badge/Metasploit--%231679A7?style=flat-square&logo=metasploit&logoColor=%23ffffff&logoSize=auto&labelColor=%233e4a96)
+
 <hr />
 <h3>Currently working on</h3><br>
 <a href="https://syngen-data.vercel.app"><img width="1500" height="200" alt="SYNGEN data" src="https://github.com/user-attachments/assets/9dc32336-0b8c-493f-bdee-da8d11a329a9" /></a>

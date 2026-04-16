@@ -1,7 +1,5 @@
 <img width="1584" height="149" alt="linkd_banner" src="https://github.com/user-attachments/assets/068f501b-344d-4bb2-bb41-2de561ed3daa" />
-
-<hr />
-RTBVPEHPWQWHXRGR! (HRITVKA)  
+RTBVPEHPWQWHXRGR! (HRITVKA)
 <hr />
 𝕀'𝕞 𝕗𝕒𝕞𝕚𝕝𝕚𝕒𝕣 𝕨𝕚𝕥𝕙<br><br>
 
@@ -27,7 +25,12 @@ RTBVPEHPWQWHXRGR! (HRITVKA)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-%23000000?style=flat-square&logo=cplusplus&logoColor=%2300599C&labelColor=ffffff&color=ffffff)
 ![Python](https://img.shields.io/badge/Python-%23000000?style=flat-square&logo=python&logoColor=%23ffffff&labelColor=%233776AB&color=%233776AB)
 ![SQL](https://img.shields.io/badge/SQL-%23ffffff?style=flat-square&logo=sqlite&logoColor=%23ffffff&labelColor=%23003B57&color=%23003B57)
-
+<br><br>
+![Arduino](https://img.shields.io/badge/Arduino-%23ffffff?style=flat-square&logo=arduino&logoColor=%23ffffff&labelColor=%2300878F&color=%2300878F)
+![Claude AI](https://img.shields.io/badge/Claude-%23ffffff?style=flat-square&logo=claude&logoColor=%23ffffff&labelColor=%23D97757&color=%23D97757)
+![Google Gemini](https://img.shields.io/badge/Gemini-%23ffffff?style=flat-square&logo=googlegemini&logoColor=%23ffffff&labelColor=%238E75B2&color=%238E75B2)
+![OpenAI ChatGPT](https://img.shields.io/badge/ChatGPT-%23ffffff?style=flat-square&logoColor=%23ffffff&labelColor=%231C1B1C&color=%231C1B1C)
+![Ollama](https://img.shields.io/badge/Ollama-%23ffffff?style=flat-square&logo=ollama&logoColor=%23ffffff&labelColor=%23000000&color=%23000000)
 
 <hr />
 <h3>Currently working on</h3><br>

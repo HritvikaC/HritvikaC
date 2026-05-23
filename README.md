@@ -1,17 +1,15 @@
 <img width="1584" height="149" alt="linkd_banner" src="https://github.com/user-attachments/assets/068f501b-344d-4bb2-bb41-2de561ed3daa" />
-RTBVPEHPWQWHXRGR! (HRITVKA)
 <hr />
 𝕀'𝕞 𝕗𝕒𝕞𝕚𝕝𝕚𝕒𝕣 𝕨𝕚𝕥𝕙<br><br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 <br><br>
@@ -25,6 +23,7 @@ RTBVPEHPWQWHXRGR! (HRITVKA)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-%23000000?style=flat-square&logo=cplusplus&logoColor=%2300599C&labelColor=ffffff&color=ffffff)
 ![Python](https://img.shields.io/badge/Python-%23000000?style=flat-square&logo=python&logoColor=%23ffffff&labelColor=%233776AB&color=%233776AB)
 ![SQL](https://img.shields.io/badge/SQL-%23ffffff?style=flat-square&logo=sqlite&logoColor=%23ffffff&labelColor=%23003B57&color=%23003B57)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23000000?style=flat-square&logo=mongodb&logoColor=%2347a248&labelColor=%23ffffff&color=%23ffffff)
 <br><br>
 ![Arduino](https://img.shields.io/badge/Arduino-%23ffffff?style=flat-square&logo=arduino&logoColor=%23ffffff&labelColor=%2300878F&color=%2300878F)
 ![Claude AI](https://img.shields.io/badge/Claude-%23ffffff?style=flat-square&logo=claude&logoColor=%23ffffff&labelColor=%23D97757&color=%23D97757)
@@ -33,7 +32,7 @@ RTBVPEHPWQWHXRGR! (HRITVKA)
 ![Ollama](https://img.shields.io/badge/Ollama-%23ffffff?style=flat-square&logo=ollama&logoColor=%23ffffff&labelColor=%23000000&color=%23000000)
 
 <hr />
-<h3>Currently working on</h3><br>
+ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟<br><br>
 <a href="https://syngen-data.vercel.app"><img width="1500" height="200" alt="SYNGEN data" src="https://github.com/user-attachments/assets/9dc32336-0b8c-493f-bdee-da8d11a329a9" /></a>
 <img width="1500" height="200" alt="Blacktalon" src="https://github.com/user-attachments/assets/552e7084-e27b-4d32-933c-c8d175d0ed07" />
 

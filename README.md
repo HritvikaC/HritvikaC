@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&letterSpacing=-1&duration=2000&pause=1500&color=55FFE3&width=435&lines=Hi%2C+I'm+Hritvika;I+build+stuff)](https://git.io/typing-svg)
-
 <img src="assets/retrobanner2.png" />
-
 <br>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&letterSpacing=-1&duration=1000&pause=1000&color=FFFA61&center=true&repeat=false&width=435&lines=Tech+stack)](https://git.io/typing-svg)
@@ -42,21 +39,18 @@
 <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=88D8C0"/>
 <img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=88D8C0"/>
 
-<br>
-<img src="assets/separator.png" />
-<br>
+<br><br>
 
-![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=HritvikaC&hide=stars,followers)
+![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=HritvikaC&theme=glass&hide=stars,followers)
 
-<br>
+<br><br>
 <img src="assets/separator.png" />
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&letterSpacing=-1&duration=1000&pause=1000&color=62FFE5&center=true&repeat=false&width=435&lines=Connect)](https://git.io/typing-svg)
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=88D8C0"/></a>
-<a href="#"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=88D8C0"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Blog-0D1117?style=for-the-badge&logo=hashnode&logoColor=88D8C0"/></a>
+<a href="www.linkedin.com/in/hritvikac"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=88D8C0"/></a>
+<a href="https://discord.com/users/455734418187878400"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=88D8C0"/></a>
 
 </div>
 

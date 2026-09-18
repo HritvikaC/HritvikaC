@@ -1,8 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&letterSpacing=-1&duration=2000&pause=1500&color=55FFE3&vCenter=true&width=435&height=30&lines=Hi%2C+I'm+Hritvika;I+break+stuff+to+build+more)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&letterSpacing=-1&duration=2000&pause=1500&color=55FFE3&vCenter=true&width=900&height=30&lines=Hi%2C+I'm+Hritvika;I+break+stuff+to+build+more)](https://git.io/typing-svg)
 <img src="assets/retrobanner2.png" />
 <br><br>
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet-light.svg">
+  <img alt="my github pet" src="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet.svg" width="100%">
+</picture>
+
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&letterSpacing=-1&duration=1000&pause=1000&color=FFFA61&center=true&vCenter=true&repeat=false&width=835&height=30&lines=Tech+stack)](https://git.io/typing-svg)
 
@@ -49,14 +57,6 @@
 <br><br>
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet.svg" width="100%">
-</picture>
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/isocat.svg">

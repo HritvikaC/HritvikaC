@@ -1,7 +1,7 @@
 name: My YourTomo cat
 on:
   schedule:
-    - cron: "23 */6 * * *" # every 6h - pick your own minute
+    - cron: "23 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,5 +14,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: prsdx/github-pet@v1
         with:
-          username: HritvikaC # change me
-          timezone-offset-minutes: "330" # your UTC offset in minutes
+          username: HritvikaC
+          timezone-offset-minutes: "330"
+          output-dir: dist

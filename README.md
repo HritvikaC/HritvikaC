@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&letterSpacing=-1&duration=2000&pause=1500&color=55FFE3&vCenter=true&width=435&height=30&lines=Hi%2C+I'm+Hritvika;I+build+stuff)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&letterSpacing=-1&duration=2000&pause=1500&color=55FFE3&vCenter=true&width=435&height=30&lines=Hi%2C+I'm+Hritvika;I+break+stuff+to+build+more)](https://git.io/typing-svg)
 <img src="assets/retrobanner2.png" />
 <br><br>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&letterSpacing=-1&duration=1000&pause=1000&color=FFFA61&center=true&vCenter=true&repeat=false&width=835&height=30&lines=Tech+stack)](https://git.io/typing-svg)
@@ -45,7 +46,14 @@
 
 <br><br>
 <img src="assets/separator.png" />
-<br>
+<br><br>
+
+<iframe src="https://hritvikac.github.io/HritvikaC/game/" title="multiplayer connect4" width="100%" height="720" style="border:0; max-width:920px;"></iframe>
+<p><a href="https://hritvikac.github.io/HritvikaC/game/">Open connect4 in a new page</a></p>
+
+<br><br>
+<img src="assets/separator.png" />
+<br><br>
 
 </div>
 
@@ -53,4 +61,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet-light.svg">
   <img alt="my github pet" src="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/pet.svg" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/isocat-light.svg">
+  <img alt="isometric contribution city" src="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/isocat.svg" width="100%">
 </picture>

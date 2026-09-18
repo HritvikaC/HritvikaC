@@ -1,0 +1,9 @@
+{
+  "name": "hritvikac-connect4-worker",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

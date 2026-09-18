@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#10131f" />
+    <title>Connect Four | HritvikaC</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="game-shell">
+      <header class="game-header">
+        <div>
+          <p class="eyebrow">PUBLIC LOBBY</p>
+          <h1>Connect <span>Four</span></h1>
+          <p id="status" class="status" role="status">Loading game...</p>
+        </div>
+        <div class="account" id="account"></div>
+      </header>
+
+      <section class="game-layout" aria-label="Connect Four game">
+        <div class="board-wrap">
+          <div
+            id="board"
+            class="board"
+            role="grid"
+            aria-label="Connect Four board"
+          ></div>
+          <p class="hint">
+            Choose a column. Your move is checked by the server.
+          </p>
+        </div>
+        <aside class="sidebar">
+          <div class="panel last-move-panel">
+            <p class="panel-label">LAST MOVE</p>
+            <div id="last-move" class="last-move">No moves yet</div>
+          </div>
+          <div class="panel">
+            <p class="panel-label">LOBBY</p>
+            <p id="turn" class="turn">Waiting for the board...</p>
+            <button id="reset" class="button" type="button" hidden>
+              Start new game
+            </button>
+          </div>
+        </aside>
+      </section>
+
+      <p id="error" class="error" role="alert" hidden></p>
+      <footer>
+        <a href="https://github.com/HritvikaC/HritvikaC">HritvikaC</a> /
+        persistent multiplayer board
+      </footer>
+    </main>
+    <script src="config.js"></script>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

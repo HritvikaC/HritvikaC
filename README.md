@@ -48,13 +48,6 @@
 <img src="assets/separator.png" />
 <br><br>
 
-<iframe src="https://hritvikac.github.io/HritvikaC/game/" title="multiplayer connect4" width="100%" height="720" style="border:0; max-width:920px;"></iframe>
-<p><a href="https://hritvikac.github.io/HritvikaC/game/">Open connect4 in a new page</a></p>
-
-<br><br>
-<img src="assets/separator.png" />
-<br><br>
-
 </div>
 
 <picture>

@@ -52,10 +52,6 @@
 
 ![GitHub Stats](https://github-stats-xi-six.vercel.app/api/stats?user=HritvikaC&theme=glass&hide=stars,followers)
 
-<br><br>
-<img src="assets/separator.png" />
-<br><br>
-
 </div>
 
 <picture>
@@ -63,3 +59,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/isocat-light.svg">
   <img alt="isometric contribution city" src="https://raw.githubusercontent.com/HritvikaC/HritvikaC/main/dist/isocat.svg" width="100%">
 </picture>
+
+<br><br>
+<img src="assets/separator.png" />
+<br><br>
